@@ -1,0 +1,17 @@
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs and temporary output from running scripts
+*.log
+*.tmp
+tmp/
+out/
+
+# Local environment files (may contain secrets)
+.env
+.env.*
